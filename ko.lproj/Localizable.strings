@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  Clock
+
+  Created by Nu-Ri Lee on 2017. 5. 16..
+  Copyright © 2017년 nuri lee. All rights reserved.
+*/
+
+"app" = "심플시계";
+"info" = "아무 화면이나 누르면 설정으로 이동합니다";
+
+"move" = "이동";
+"cancel" = "취소";

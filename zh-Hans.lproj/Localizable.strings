@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  Clock
+
+  Created by Nu-Ri Lee on 2017. 5. 16..
+  Copyright © 2017년 nuri lee. All rights reserved.
+*/
+
+"app" = "简单时钟";
+"info" = "按任意屏幕进入设置";
+
+"move" = "移动";
+"cancel" = "取消";

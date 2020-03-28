@@ -1,0 +1,37 @@
+
+/* Class = "UILabel"; text = "20:00 ~ 08:00"; ObjectID = "2SZ-C0-4eJ"; */
+"2SZ-C0-4eJ.text" = "20:00 ~ 08:00";
+
+/* Class = "UINavigationItem"; title = "Setting"; ObjectID = "7nE-Ks-wbJ"; */
+"7nE-Ks-wbJ.title" = "설정";
+
+/* Class = "UINavigationItem"; title = "Setting"; ObjectID = "GFX-6q-JLM"; */
+"GFX-6q-JLM.title" = "설정";
+
+/* Class = "UITableViewSection"; headerTitle = "Brightness"; ObjectID = "ICi-0i-zvv"; */
+"ICi-0i-zvv.headerTitle" = "밝기";
+
+/* Class = "UITableViewSection"; headerTitle = "Time format"; ObjectID = "PSE-Rr-lJ4"; */
+"PSE-Rr-lJ4.headerTitle" = "시간 설정";
+
+/* Class = "UILabel"; text = "Hide seconds"; ObjectID = "SDZ-yb-oCb"; */
+"SDZ-yb-oCb.text" = "초심 가리기";
+
+/* Class = "UILabel"; text = "24 hour"; ObjectID = "edT-Ng-8kp"; */
+"edT-Ng-8kp.text" = "24시간";
+
+/* Class = "UILabel"; text = "Hide seconds"; ObjectID = "gFX-FO-ugm"; */
+"gFX-FO-ugm.text" = "초심 가리기";
+
+/* Class = "UILabel"; text = "24 hour"; ObjectID = "kyL-oC-GOZ"; */
+"kyL-oC-GOZ.text" = "24시간";
+
+/* Class = "UILabel"; text = "12:33:01"; ObjectID = "lnE-HW-XFD"; */
+"lnE-HW-XFD.text" = "12:33:01";
+
+/* Class = "UITableViewSection"; headerTitle = "Time format"; ObjectID = "paB-Va-BUQ"; */
+"paB-Va-BUQ.headerTitle" = "시간 설정";
+
+/* Class = "UILabel"; text = "Brightness lower time setting"; ObjectID = "rVa-Gh-Gy1"; */
+"rVa-Gh-Gy1.text" = "밝기 낮추기";
+

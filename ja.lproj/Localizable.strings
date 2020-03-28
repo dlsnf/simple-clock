@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  Clock
+
+  Created by Nu-Ri Lee on 2017. 5. 16..
+  Copyright © 2017년 nuri lee. All rights reserved.
+*/
+
+"app" = "シンプルクロック";
+"info" = "任意の画面を押して設定に移動します";
+
+"move" = "動く";
+"cancel" = "キャンセル";

@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  Clock
+
+  Created by Nu-Ri Lee on 2017. 5. 16..
+  Copyright © 2017년 nuri lee. All rights reserved.
+*/
+
+CFBundleDisplayName = "SimpleClock";
